@@ -1,0 +1,11 @@
+#Grid Parameters
+NX = 10001
+XMAX = 10000
+C0 = 500
+NT = 5001
+DT = 0.001
+GX = 2200
+#Source Parameter
+Freq = 100
+SX = 1000
+SNAP = 100
